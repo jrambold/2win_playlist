@@ -1,0 +1,52 @@
+div.boxy {
+  display: inline-block;
+  width: 200px;
+  height: 400px;
+  border-style: groove;
+  vertical-align:top;
+}
+
+body {
+  background-color: #B0C4DE;
+}
+
+div.user {
+  text-align: right;
+}
+nav {
+  text-align: left;
+  background-color: black;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  height: 100px;
+}
+nav ul {
+  float: left;
+}
+nav ul li {
+  display: inline;
+}
+
+span.title {
+  float: right;
+  text-align:right;
+}
+
+div.topbox {
+  background-color: blue;
+  height: 100px;
+}
+
+div.code {
+  display: inline-block;
+  background-color: grey;
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
+  word-wrap: break-word;
+}
+
+div.botbox {
+
+}
